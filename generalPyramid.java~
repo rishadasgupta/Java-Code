@@ -9,7 +9,6 @@ class generalPyramid {
 	} //for loop
     } //spaces
     
-    //prints out a pyramid of stars based on given input
     public static void pyramid(int numLines) {
 	int bound = 0;
 	int size = (2 * numLines) - 1;
